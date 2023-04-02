@@ -15,3 +15,4 @@ CMD  ["yum","install","httpd"]
 COPY ./*.war /usr/local/tomcat/webapps
 ENTRYPOINT ["yum","install","git"]
 >>>>>>> parent of 8a07fce (Update Dockerfile)
+CMD ["yum","install","tree"]
