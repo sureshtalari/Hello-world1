@@ -5,3 +5,4 @@ CMD ["yum","install","git"]
 CMD ["surekha"]
 ENTRYPOINT ["git"]
 echo "hi hello surekha whats app"
+updated
