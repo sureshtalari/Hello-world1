@@ -4,5 +4,6 @@ COPY ./*.war /usr/local/tomcat/webapps
 CMD ["yum","install","git"]
 CMD ["surekha"]
 ENTRYPOINT ["git"]
-echo "hi hello surekha whats app"
-updated
+echo "hi hello surekha "
+git add
+
